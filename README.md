@@ -1,6 +1,6 @@
 # Recall Block Explorer MCP Service
 
-TODO: This setup doesn't currently work. It requires the json file to be local.
+FIXME: Currently, this doesn't work. It requires the json file to be local to the client, and our block explorer api is too large to fit in most context windows.
 
 This Model Context Protocol (MCP) service enables MCP-aware AI assistants to query and access the Recall block explorer, creating a powerful knowledge extension for your AI assistant.
 
