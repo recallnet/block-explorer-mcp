@@ -238,7 +238,7 @@
           }
         ],
         "summary": "search redirect",
-        "operationId": "search redirect",
+        "operationId": "search_redirect",
         "responses": {
           "200": {
             "description": "search response",
